@@ -1,4 +1,3 @@
-This scientific and comprehensive `README.md` is structured for a professional GitHub repository, summarizing the methodology, findings, and deployment steps detailed in your Jupyter Notebook.
 
 ***
 
